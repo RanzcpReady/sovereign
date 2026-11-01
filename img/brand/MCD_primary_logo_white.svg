@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 800">
+<g transform="translate(70,120) scale(.65)">
+<polygon fill="#FFFFFF" points="30,480 300,95 480,300 370,405 290,300 145,480"/>
+<polygon fill="#FFFFFF" points="500,320 720,175 720,310 950,155 950,480 660,480"/>
+<polygon fill="#2563EB" points="300,145 480,300 370,430 270,305"/>
+</g>
+<text x="850" y="340" font-family="Inter,Arial,sans-serif" font-size="170" font-weight="700" fill="#FFFFFF">MASSIVE CORE</text>
+<text x="850" y="485" font-family="Inter,Arial,sans-serif" font-size="92" letter-spacing="28" fill="#FFFFFF">DYNAMICS</text>
+<text x="850" y="630" font-family="Inter,Arial,sans-serif" font-size="38" letter-spacing="8" fill="#FFFFFF">IDEAS  |  SYSTEMS  |  PEOPLE  |  PROGRESS</text>
+</svg>
